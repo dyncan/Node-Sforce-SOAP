@@ -33,7 +33,7 @@ async function updateAccount() {
         "xsi:type": "sf:Account",
       },
       Name: "Updated by SOAP API",
-      Id: "001Do00000Dp3SaIAJ",
+      Id: "001xxxxxxxxxxxxxxx",
     },
   };
 
